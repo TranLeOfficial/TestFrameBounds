@@ -37,6 +37,7 @@ class ViewController: UIViewController {
         
         print(arrDicNhan.interestingNumbers["primes"]!)
         print("Tran Thanh Nhan")
+        print("Branch abc")
     }
 
 }
